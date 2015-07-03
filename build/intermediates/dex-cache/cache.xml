@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liushuo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/usr1/androidproject/TestServer/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-b02dfc935437e512cfafe51c84669de4ba2419d7.jar" />
+    </item>
+    <item
+        jar="/usr1/androidproject/TestServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/usr1/androidproject/TestServer/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-5004d51d76da8667aa033eaa7bec5abaa2aec563.jar" />
+    </item>
+    <item
+        jar="/usr1/androidproject/TestServer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/usr1/androidproject/TestServer/app/build/intermediates/pre-dexed/debug/classes-e70eb4472f9de74cdd3e20ffeb884c7b0131d382.jar" />
+    </item>
+    <item
+        jar="/usr1/androidproject/TestServer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/usr1/androidproject/TestServer/app/build/intermediates/pre-dexed/debug/classes-b517d930c19024b9d7ecc3f77cea2ea560f1eb77.jar" />
+    </item>
+
+</items>
